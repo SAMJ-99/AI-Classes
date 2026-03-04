@@ -1,6 +1,6 @@
 #First Task
 print ("Hello, World")
-print (Abdul)
+print ("Abdul")
 
 #Second Task
 User_FavColor = input("What is your favorite color?")
